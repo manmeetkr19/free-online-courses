@@ -1,5 +1,8 @@
 # free-online-courses
 ## Resources
+
+* [Cpp Beginner](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+
 ## Contributing
 > *NOTE:* Check the TODO before opening issues to check if it is detected and is being worked upon.
 
