@@ -1,6 +1,7 @@
 # free-online-courses
 ## Resources
 ## Contributing
+* [FreeCodeCamp- Python](https://youtu.be/rfscVS0vtbw)
 > *NOTE:* Check the TODO before opening issues to check if it is detected and is being worked upon.
 
 This project is open to and encourages contributions! Feel free to discuss any bug fixes/features in the *issues*. If you wish to work on this project and extend it with your own mechanics or :
