@@ -1,5 +1,7 @@
 # free-online-courses
 ## Resources
+* [Android Beginner Course](https://www.youtube.com/watch?v=bo_LP6QOUio&ab_channel=freeCodeCamp.org)
+
 ## Contributing
 > *NOTE:* Check the TODO before opening issues to check if it is detected and is being worked upon.
 
