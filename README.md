@@ -8,7 +8,7 @@
 * [FreeCodeCamp- Python](https://youtu.be/rfscVS0vtbw)
 * [Java Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)
 * [Unreal Engine4 Course](https://www.youtube.com/watch?v=PrcfA4WZW_o)
-
+* [Flutter Development Course](https://www.youtube.com/watch?v=x0uinJvhNxI)
 
 ## Contributing
 > *NOTE:* Check the TODO before opening issues to check if it is detected and is being worked upon.
