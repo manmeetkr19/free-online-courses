@@ -8,7 +8,7 @@
 * [FreeCodeCamp- Python](https://youtu.be/rfscVS0vtbw)
 * [Java Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)
 * [Unreal Engine4 Course](https://www.youtube.com/watch?v=PrcfA4WZW_o)
-* [Apna College - Web Development Course](https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)
+* [Apna College-Web Development Course](https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)
 
 
 
