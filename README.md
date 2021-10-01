@@ -15,6 +15,8 @@
 
 * [MERN Stack](https://www.youtube.com/watch?v=ktjafK4SgWM)
 * [React JS](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)
+* [FreeCodeCamp- HTML/CSS3](https://youtu.be/mU6anWqZJcc)
+* [SQL](https://youtu.be/BPHAr4QGGVE)
 
 
 
