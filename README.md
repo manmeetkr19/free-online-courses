@@ -18,8 +18,9 @@
 * [FreeCodeCamp- HTML/CSS3](https://youtu.be/mU6anWqZJcc)
 * [SQL](https://youtu.be/BPHAr4QGGVE)
 
-
-
+* [MongoDB](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+* [Ethical Hacking](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu)
+* [Cloud Computing](https://www.youtube.com/watch?v=2LaAJq1lB1Q)
 
 
 ## Contributing
